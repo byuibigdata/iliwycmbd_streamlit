@@ -263,3 +263,11 @@ After logging in please navigate to the home page. This will look like the image
 After clicking the buttom to create a new app you will be directed to this page. This is where you will naviage through your github account to find the app that you want to publish and select the desired pyton file. After the file is selected all you need to do is hit delpoy and your app will launch shortly!
 
 ![image](https://github.com/byuibigdata/iliwycmbd_streamlit/blob/main/Publish%20on%20Streamlit%20Cloud/select_github_location.png)
+
+
+## Links
+
+https://docs.streamlit.io/library/api-reference/charts
+https://docs.streamlit.io/library/api-reference/data
+https://docs.streamlit.io/library/api-reference/widgets
+https://docs.streamlit.io/library/api-reference/status
